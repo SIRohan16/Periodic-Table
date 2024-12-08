@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to left, rgb(92, 31, 172),rgba(44, 134, 236, 0.877));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#maintable{
+    margin-left: auto;
+    margin-right: auto;
+}
+#ul1{
+    margin-left: 6.5%
+}
+#mainH{
+    text-shadow: 7px 2px 5px rgb(83, 87, 94);
+}
+h1{
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+h3{
+    margin-left: 10px;
+}
+ul{
+    margin-left: 10px;
+}
+a:link{
+    color: blueviolet;
+}
+a:hover{
+    color: chartreuse;
+}
+a:active{
+    color: red;
+}
